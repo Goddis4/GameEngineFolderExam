@@ -1,0 +1,25 @@
+﻿  GEexam.cpp
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\SystemManager.h(108,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'GEexam.cpp')
+  
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(31,21): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(43,21): warning C4244: 'initializing': conversion from 'lua_Integer' to 'uint32_t', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(44,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(45,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(46,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(60,21): warning C4244: 'initializing': conversion from 'lua_Integer' to 'uint32_t', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(61,14): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(62,14): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(63,14): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(76,21): warning C4244: 'initializing': conversion from 'lua_Integer' to 'uint32_t', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(77,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(78,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(79,13): warning C4244: 'initializing': conversion from 'lua_Number' to 'float', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(218,42): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(229,48): warning C4267: 'argument': conversion from 'size_t' to 'const _Kty', possible loss of data
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(229,48): warning C4267:         with
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(229,48): warning C4267:         [
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(229,48): warning C4267:             _Kty=uint32_t
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(229,48): warning C4267:         ]
+C:\Github\OpenGL\GE_Folder\GEexam\GEexam\GEexam.cpp(241,50): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  GEexam.vcxproj -> C:\Github\OpenGL\GE_Folder\GEexam\GEexam\x64\Debug\GEexam.exe
